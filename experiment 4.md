@@ -7,6 +7,8 @@ Approach: Create the /home/consultants directory, set write permission using the
 ![image](https://github.com/user-attachments/assets/e734e59a-2535-496d-9425-d2aaf108255e)
 ![image](https://github.com/user-attachments/assets/fb89bffb-86a5-4e28-8e09-9acbdd5b0369)
 
+commands used- mkdir chmod
+
 
 
 
